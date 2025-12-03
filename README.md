@@ -1,110 +1,145 @@
-<!-- ----------------------------------------------------- -->
-<!--              🌟 JAHONGIR TO'XTAYEV — README           -->
-<!-- ----------------------------------------------------- -->
-
-<h1 align="center">Hi 👋, I'm Jahongir To'xtayev</h1>
-<h3 align="center">🇺🇿 15 yoshli O‘zbekistondan Web Developer</h3>
+````md
+# 🚀 Jahongir To'xtayev — GitHub README
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F712&center=true&vCenter=true&width=650&lines=Assalomu+alaykum!+Men+Jahongir!;15+yoshli+Full+Stack+Developer;React+%7C+HTML+%7C+CSS+%7C+Django+%7C+JavaScript" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,python,django,nodejs,express,git,github,vscode,linux,figma,mysql,postgres&theme=light" />
 </p>
 
 ---
 
-## 🚀 **Men haqimda**
-
-- 👦 Ismim: **Jahongir To‘xtayev**  
-- 🏡 Manzil: **Uzbekistan**  
-- 🎂 Yoshim: **15 yosh**  
-- 💻 Mutaxassisligim: **Frontend & Backend Developer**  
-- 🚀 Asosiy yo‘nalishlar: **React, JavaScript, HTML/CSS, Django, Python**  
-- 🎯 Maqsadim: professional **Full-Stack Developer** bo‘lish  
-- 🔥 GitHub’da faolman va real loyihalar qilaman  
+## 👦 Men haqimda
+- 🇺🇿 **O'zbekiston — Jahongir To‘xtayev**
+- 🎉 Yosh: **15 yosh**
+- 💻 **Frontend + Backend** (Full Stack yo‘nalishida)
+- ⚡ React, HTML, CSS, JavaScript, Django bilan ishlayman
+- 🎯 Maqsadim — eng kuchli yosh dasturchilardan biri bo‘lish
 
 ---
 
-## 🛠 **Texnologiyalar & Ko‘nikmalar**
-
-### ⭐ Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+## 🧠 Professional Stack
+### **Frontend:**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap" />
 </p>
 
-### ⭐ Backend
-<p align="left">
+### **Backend:**
+<p>
   <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
 </p>
 
-### ⭐ Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+### **Database:**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite" />
 </p>
 
-### ⭐ Tools & Others
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
+### **Tools:**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
 ---
 
-## 📊 **GitHub Statistikalar**
+## 📦 Loyihalar
+### **Nike Product Showcase (Frontend)**
+- HTML, CSS, JS — Animatsiya, Responsive UI
+- GitHub: *havola qo‘shiladi*
+
+### **Chronosfera Watch Website**
+- JavaScript + Modal signup + Sort/Search
+
+### **Perfume Telegram Bot**
+- Python + telebot
+
+### **Smart Vending Machine (Python)**
+- Inventar, tranzaksiya, payment simulyatsiya
+
+---
+
+## 🧱 Qila oladigan ishlar
+- ⚡ Murakkab UI yaratish
+- ⚙️ Django backend yozish (API, views, templates)
+- 🧩 React komponentlar arxitekturasi
+- 🌐 Deploy (Netlify, Vercel, Render)
+- 🛠️ GitHub workflow
+
+---
+
+## 🧵 Real Katta Maqsadlar
+- Full Stack Engineer bo‘lish
+- Startup loyihalarda qatnashish
+- O‘z IT kompaniyamni ochish
+
+---
+
+## 🏆 Yutuqlar
+- 50+ mini loyihalar
+- JavaScript & React mustahkam tajriba
+- GitHub’da faol contributer
+
+---
+
+## 📊 Statistika
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=radical" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://streak-stats.demolab.com?user=Jonizz14&theme=radical" />
 </p>
 
 ---
 
-## 🏆 **Yutuqlar & Faoliyat**
+## 🧠 Mini Kod (Portfolio uchun)
+```js
+// React Loader Component
+export default function Loader() {
+  return (
+    <div className="loader-container">
+      <div className="loader"></div>
+    </div>
+  );
+}
+````
 
-- ✔ 40+ dan ortiq real project yaratganman  
-- ✔ React bo‘yicha tajribali UI/UX ishlayman  
-- ✔ Django backend API lar yarataman  
-- ✔ GitHub’da faol forklayman, contribute qilaman  
-- ✔ O‘zim mustaqil dasturchiman  
+```css
+.loader-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
 
----
+.loader {
+  width: 45px;
+  height: 45px;
+  border: 6px solid #00ff88;
+  border-top: 6px solid transparent;
+  border-radius: 50%;
+  animation: spin 0.6s linear infinite;
+}
 
-## 🚀 **Mening Asosiy Loyiha Yo‘nalishlarim**
-
-- 🟦 Frontend Web Apps (React + Tailwind)  
-- 🟩 Full-Stack Web (Django + React)  
-- 🔐 Authentication System Laravel / Django / Node  
-- 🛒 E-Commerce Websites  
-- 🎥 Animation / UI Websites  
-- ⚙ REST API ishlab chiqish  
-- 📱 Responsive dizayn  
-
----
-
-## 📂 **Eng yaxshi loyihalar**
-
-| Loyiha | Texnologiya | Link |
-|-------|-------------|------|
-| 🛒 E-Commerce Full Stack | React + Django | Coming soon |
-| 🎬 Animation Premium Website | React + GSAP | Coming soon |
-| 📝 Blog API | Django REST | Coming soon |
-| 🌐 Personal Portfolio | HTML/CSS/JS | Coming soon |
-
----
-
-## ✉️ **Aloqa**
-
-<p align="left">
-  <a href="https://t.me/Jonizz14" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
-  </a>
-  <a href="mailto:jahongirtuhtaev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
-  </a>
-</p>
+@keyframes spin {
+  to { transform: rotate(360deg); }
+}
+```
 
 ---
 
-<h2 align="center">🔥 Fork ⭐ Star ⭐ Follow</h2>
+## 📫 Bog‘lanish
 
+* GitHub: **[https://github.com/Jonizz14](https://github.com/Jonizz14)**
+* Email: *email qo‘shing*
+
+---
+
+## 🧨 Ishga olish uchun
+
+Agar sizga shijoatli, iste’dodli va tez o‘rganadigan yosh dasturchi kerak bo‘lsa — bemalol bog‘laning.
+
+```
+```

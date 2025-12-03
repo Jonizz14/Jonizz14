@@ -1,166 +1,110 @@
-```md
-# Jahongir To'xtayev (Jonizz14)
+<!-- ----------------------------------------------------- -->
+<!--              🌟 JAHONGIR TO'XTAYEV — README           -->
+<!-- ----------------------------------------------------- -->
+
+<h1 align="center">Hi 👋, I'm Jahongir To'xtayev</h1>
+<h3 align="center">🇺🇿 15 yoshli O‘zbekistondan Web Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=00F712&center=true&vCenter=true&width=600&lines=Assalomu+alaykum!+Men+Jahongir!;15+yoshli+Front-end+Developer;React+%7C+HTML+%7C+CSS+%7C+Django+%7C+JavaScript" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode,linux,figma&theme=light" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
 </p>
 
 ---
 
-## ✨ Men haqimda
-- 🇺🇿 O'zbekistondan — **Jahongir To'xtayev**
-- 🎉 Yoshim: **15**
-- 💻 Frontend & Backend yo‘nalishida o‘qiyman
-- 🚀 React, HTML, CSS, JavaScript va Django bilan ishlayman
-- 🎯 Maqsad: professional full-stack developer bo‘lish
+## 🚀 **Men haqimda**
+
+- 👦 Ismim: **Jahongir To‘xtayev**  
+- 🏡 Manzil: **Uzbekistan**  
+- 🎂 Yoshim: **15 yosh**  
+- 💻 Mutaxassisligim: **Frontend & Backend Developer**  
+- 🚀 Asosiy yo‘nalishlar: **React, JavaScript, HTML/CSS, Django, Python**  
+- 🎯 Maqsadim: professional **Full-Stack Developer** bo‘lish  
+- 🔥 GitHub’da faolman va real loyihalar qilaman  
 
 ---
 
-## 🚀 Texnologiyalar
-### **Frontend**
+## 🛠 **Texnologiyalar & Ko‘nikmalar**
+
+### ⭐ Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-### **Backend**
+### ⭐ Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express" />
 </p>
 
-### **Tools**
+### ⭐ Database
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### ⭐ Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman" />
 </p>
 
 ---
 
-## 📦 Loyihalar
-### **Nike Product Showcase**
-- HTML, CSS, JS — Animatsiyalar, responsive dizayn
-- GitHub: *havola qo‘shing*
+## 📊 **GitHub Statistikalar**
 
-### **Chronosfera Watch Website**
-- JavaScript asosida sort/search + modal signup
-
-### **Perfume Telegram Bot**
-- Python (telebot): kategoriya + rasm + buy tugmasi
-
----
-
-## 📊 Statistika
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=tokyonight" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
 
-## 📫 Bog‘lanish
-- GitHub: **https://github.com/Jonizz14**
-- Email: *email qo‘shing*
+## 🏆 **Yutuqlar & Faoliyat**
+
+- ✔ 40+ dan ortiq real project yaratganman  
+- ✔ React bo‘yicha tajribali UI/UX ishlayman  
+- ✔ Django backend API lar yarataman  
+- ✔ GitHub’da faol forklayman, contribute qilaman  
+- ✔ O‘zim mustaqil dasturchiman  
 
 ---
 
-## 🇺🇿 Ishga olish uchun murojaat
-Agar sizga tez o‘rganadigan, ijodkor va mehnatkash yosh dasturchi kerak bo‘lsa — men tayyorman! 🚀
+## 🚀 **Mening Asosiy Loyiha Yo‘nalishlarim**
+
+- 🟦 Frontend Web Apps (React + Tailwind)  
+- 🟩 Full-Stack Web (Django + React)  
+- 🔐 Authentication System Laravel / Django / Node  
+- 🛒 E-Commerce Websites  
+- 🎥 Animation / UI Websites  
+- ⚙ REST API ishlab chiqish  
+- 📱 Responsive dizayn  
 
 ---
-```
 
-Salom! Men Jahongir To'xtayevman — 15 yoshdaman, Oʻzbekistondan. Kod yozishni va zamonaviy veb-ilovalar yaratishni juda yaxshi ko'raman. Hozirda React, HTML, CSS va Django bilan ishlayman. GitHub profilim: [https://github.com/Jonizz14](https://github.com/Jonizz14)
+## 📂 **Eng yaxshi loyihalar**
+
+| Loyiha | Texnologiya | Link |
+|-------|-------------|------|
+| 🛒 E-Commerce Full Stack | React + Django | Coming soon |
+| 🎬 Animation Premium Website | React + GSAP | Coming soon |
+| 📝 Blog API | Django REST | Coming soon |
+| 🌐 Personal Portfolio | HTML/CSS/JS | Coming soon |
 
 ---
 
-## 🧩 Texnologiyalar & Vidjetlar
+## ✉️ **Aloqa**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,django,git,github,vscode,linux" />
+  <a href="https://t.me/Jonizz14" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="48"/>
+  </a>
+  <a href="mailto:jahongirtuhtaev@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  </a>
 </p>
 
-## 🔭 Nima bilan shug'ullanaman
-
-* **Frontend:** React, HTML5, CSS3, JavaScript (ES6+)
-* **Backend:** Django (Python)
-* **Boshqa:** Git, GitHub, responsive dizayn, versiya boshqaruvi
-
 ---
 
-## 💼 Maqsad
-
-Men amaliy loyihalar yaratib, jamoaga qo'shilish va tajriba orttirish orqali dasturchilik sohasida professional bo'lishni maqsad qilganman. Kichik hamda katta loyiha va startuplarda ishtirok etishga tayyorman.
-
----
-
-## 🛠️ Asosiy loyihalar (namuna)
-
-> Loyihalar bo'limini o'zingizga moslab to'ldiring — har bir loyiha uchun qisqacha tavsif, texnologiyalar va GitHub havolasini qo'shing.
-
-* **Loyiha 1 — Nike-themed product showcase (Frontend)**
-
-  * Texnologiyalar: HTML, CSS, JavaScript
-  * Qisqacha: Mahsulotlar ro'yxati, responsive dizayn, animatsiyalar.
-
-* **Loyiha 2 — Chronosfera watch site (Frontend)**
-
-  * Texnologiyalar: HTML, CSS, JavaScript
-  * Qisqacha: Signup modal, izlash va saralash funksiyalari, chiroyli UI.
-
-* **Loyiha 3 — Telegram bot (Python)**
-
-  * Texnologiyalar: Python, aiogram/telebot
-  * Qisqacha: Kategoriyalangan mahsulotlar, rasm va "Buy" tugmasi bilan.
-
----
-
-## ✅ Ko'nikmalar va daraja
-
-* React — boshlang'ich / o'rta
-* HTML / CSS — yaxshi
-* JavaScript — yaxshi
-* Django (Python) — boshlang'ich
-* Git / GitHub — ishlash darajasi mavjud
-
----
-
-## 📚 Ta'lim
-
-* Hozirda maktab o'quvchisiman (15 yosh).
-* O'z-o'zini o'rgatish: onlayn kurslar, coding challenge'lar va real loyihalar orqali
-
----
-
-## 🌱 Hozirda o'rganayotganlar
-
-* Django bilan backend integratsiyasi
-* React bilan yanada murakkab komponentlar va state boshqaruvi
-* Loyihalarni to'liq to'plashi (CI/CD / deploy asoslari)
-
----
-
-## 📫 Bog'lanish
-
-* GitHub: [https://github.com/Jonizz14](https://github.com/Jonizz14)
-* Email: *[bu yerga emailingizni qo'shing]* (maslahat: rasmiy ish uchun professional email qo'ying)
-
----
-
-## 🤝 Ishga qabul qilishlar uchun xabar
-
-Agar sizga ijodiy va tez o'rganadigan yosh ishlab chiquvchi kerak bo'lsa — men bilan bog'laning! Men tezda yangi texnologiyalarni o'rganaman, jamoada ishlashni yaxshi ko'raman va mas'uliyatni o'z zimmamga olishdan qo'rqmayman.
-
----
-
-## 📌 Foydali maslahatlar README uchun
-
-1. Har bir loyihaga alohida GitHub havolasi qo'shing.
-2. Portfolio yoki ish namunalarini joylashtiring (GIF yoki skrinshotlar yaxshi ko'rinadi).
-3. Kontakt ma'lumotlarini to'liq va professional qiling.
-
----
-
-*README shu nom bilan saqlandi. Agar xohlasangiz, men uni ingliz tiliga tarjima qilib beraman yoki README ichidagi loyihalarni aniqroq to'ldirib, badges (shields) va stat kartalar qo'shib yanada chiroyli qilib tashkil qilaman.*
+<h2 align="center">🔥 Fork ⭐ Star ⭐ Follow</h2>
 

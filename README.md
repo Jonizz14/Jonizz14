@@ -95,11 +95,10 @@
 
 | Project | Key Technologies | Status | Link |
 | :------- | :------------- | :----- | :--- |
-| 🛒 **E-Commerce Full Stack** | React, Django REST, PostgreSQL | ⏳ In Progress | [Coming soon] |
-| 🎬 **Premium Animation Website** | React, GSAP, Tailwind CSS | ⏳ In Progress | [Coming soon] |
-| 📝 **Blog API** | Django REST Framework, SQLite | ⏳ In Progress | [Coming soon] |
-| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | ⏳ In Progress | [Coming soon] |
-| 🤖 **Telegram Bot** | Python, Telebot API | ✅ Completed | [Coming soon] |
+| 🛒 **Medicore** | React, Django REST, PostgreSQL | ⏳ In Progress | [Coming soon] |
+| 🎬 **School Website** | React, GSAP, Tailwind CSS | ⏳ In Progress | [Coming soon] |
+| 📝 **Test App** | Django REST Framework, SQLite | ⏳ In Progress | [Coming soon] |
+| 🤖 **Weather App** | React Vite, Cloud API | ✅ Completed | [Coming soon] |
 
 ---
 

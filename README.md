@@ -1,119 +1,128 @@
-
-<!-- ----------------------------------------------------- -->
-<!--              🌟 JAHONGIR TO'XTAYEV — README           -->
-<!-- ----------------------------------------------------- -->
-
-<h1 align="center">Hi 👋, I'm Jahongir To'xtayev</h1>
-<h3 align="center">🇺🇿 15 yoshli O‘zbekistondan Full Stack Web Developer</h3>
+<h1 align="center">Hi there! 👋 I'm Jahongir To'xtayev</h1>
+<h3 align="center">🇺🇿 A 15-year-old Full Stack Web Developer from Uzbekistan</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380"/>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Coding Illustration" width="380"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Jonizz14">
+    <img src="https://komarev.com/ghpvc/?username=Jonizz14&style=for-the-badge&color=blue" alt="Profile views" />
+  </a>
+  <img src="https://img.shields.io/badge/Status-Actively%20Building%20&%20Learning-informational?style=for-the-badge&logo=react&logoColor=white&color=06B6D4" alt="Status" />
 </p>
 
 ---
 
-## 🚀 **Men haqimda**
+## 🚀 **About Me**
 
-- 👦 Ismim: **Jahongir To‘xtayev**  
-- 🏡 Manzil: **Uzbekistan**  
-- 🎂 Yoshim: **15 yosh**  
-- 💻 Mutaxassisligim: **Frontend & Backend Developer**  
-- 🚀 Asosiy yo‘nalishlar: **React, JavaScript, HTML/CSS, Django, Python**  
-- 🎯 Maqsadim: professional **Full-Stack Developer** bo‘lish  
-- 🔥 GitHub’da faolman va real loyihalar qilaman  
-- 🧠 Tez o‘rganish qobiliyatim yuqori, mustaqil ishlash va ijodiy yechim topish qobiliyatim mavjud
+- 🧑‍💻 **Role:** Frontend & Backend Developer
+- 📍 **Location:** Uzbekistan
+- 🎂 **Age:** 15 years old
+- 💡 **Core Stacks:** **React**, **Django**, **Python**, **JavaScript**
+- 🎯 **Goal:** To become a professional and innovative **Full-Stack Engineer**.
+- ✨ **Key Strengths:** Highly active on GitHub, experienced in building real-world projects, fast learner, and strong problem-solving skills.
 
 ---
 
-## 🛠 **Texnologiyalar & Ko‘nikmalar**
+## 🛠 **Tech Stack & Skills**
 
-### ⭐ Frontend
+### ⭐ Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,nextjs,chakraui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,bootstrap,chakraui&perline=8" />
 </p>
 
-### ⭐ Backend
+### ⭐ Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs,express,flask&perline=8" />
 </p>
 
-### ⭐ Database
+### ⭐ Database & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,mongodb,docker,aws,netlify,vercel&perline=8" />
 </p>
 
 ### ⭐ Tools & Others
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,figma,canva&perline=8" />
 </p>
 
 ---
 
-## 📊 **GitHub Statistikalar**
+## 📈 **GitHub Stats & Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=tokyonight" height="170" />
+  <a href="https://github.com/Jonizz14">
+    <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4&line_height=22" alt="Jahongir's GitHub Stats" height="180" />
+  </a>
+  <a href="https://github.com/Jonizz14">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=dark&hide_border=true&stroke=06B6D4&background=0D1117&ring=06B6D4&currStreakNum=06B6D4&fire=E96900&dates=06B6D4" alt="Jahongir's Streak" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight" height="170" />
+  <a href="https://github.com/Jonizz14">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&langs_count=6" alt="Top Languages" />
+  </a>
 </p>
 
 ---
 
-## 🏆 **Yutuqlar & Faoliyat**
+## 🏆 **Achievements & Focus Areas**
 
-- ✔ 50+ dan ortiq real loyihalar yaratganman  
-- ✔ React va UI/UX dizayn bo‘yicha tajribali  
-- ✔ Django backend API lar yarataman  
-- ✔ GitHub’da faol forklayman, open-source contribute qilaman  
-- ✔ Mustaqil loyiha yaratish qobiliyatim mavjud  
-- ✔ Tez o‘rganish va murakkab muammolarni hal qilish qobiliyatim kuchli  
-
----
-
-## 🚀 **Asosiy Loyiha Yo‘nalishlarim**
-
-- 🟦 Frontend Web Apps (React, Tailwind, Next.js, Chakra UI)  
-- 🟩 Full-Stack Web (Django + React)  
-- 🔐 Authentication System (Django/Node/Laravel)  
-- 🛒 E-Commerce Websites  
-- 🎥 Animation / UI Websites  
-- ⚙ REST API ishlab chiqish  
-- 📱 Responsive dizayn  
-- 📊 GitHub Projects va Task Management
+* ✔️ Successfully built **50+ real-world projects** demonstrating practical application of skills.
+* ✔️ Proficient in **React** and creating engaging **UI/UX designs**.
+* ✔️ Experienced in developing robust **Django REST APIs** for backend services.
+* ✔️ Active contributor to **open-source** projects (forking and contributing).
+* ✔️ Strong capability in **independent project creation** and end-to-end development.
+* ✔️ Passionate about solving complex problems and quickly adopting new technologies.
 
 ---
 
-## 📂 **Eng yaxshi loyihalar**
+## 🚀 **My Primary Project Interests**
 
-| Loyiha | Texnologiya | Link |
-|-------|-------------|------|
-| 🛒 E-Commerce Full Stack | React + Django | Coming soon |
-| 🎬 Animation Premium Website | React + GSAP | Coming soon |
-| 📝 Blog API | Django REST | Coming soon |
-| 🌐 Personal Portfolio | HTML/CSS/JS | Coming soon |
-| 🤖 Telegram Bot | Python + Telebot | Coming soon |
-| 🏪 Smart Vending Machine | Python | Coming soon |
+| Area | Technologies | Description |
+| :--- | :--- | :--- |
+| **Full-Stack Web Apps** | React, Next.js, Django, Node.js | Building scalable, modern web applications. |
+| **E-Commerce Solutions** | Django + React/Next.js | Developing robust online stores with full features. |
+| **Authentication Systems**| Django (Djoser), Node (JWT), Laravel | Implementing secure and efficient user authentication. |
+| **REST API Development** | Django REST Framework, Express.js | Creating well-documented and performant APIs. |
+| **UI/UX & Animation** | React, Tailwind CSS, GSAP, Framer Motion | Focus on visually appealing and smooth user interfaces. |
 
 ---
 
-## ✉️ **Aloqa**
+## 📂 **Featured Projects**
+
+| Project | Key Technologies | Status | Link |
+| :------- | :------------- | :----- | :--- |
+| 🛒 **E-Commerce Full Stack** | React, Django REST, PostgreSQL | ⏳ In Progress | [Coming soon] |
+| 🎬 **Premium Animation Website** | React, GSAP, Tailwind CSS | ⏳ In Progress | [Coming soon] |
+| 📝 **Blog API** | Django REST Framework, SQLite | ⏳ In Progress | [Coming soon] |
+| 🌐 **Personal Portfolio** | HTML, CSS, JavaScript | ⏳ In Progress | [Coming soon] |
+| 🤖 **Telegram Bot** | Python, Telebot API | ✅ Completed | [Coming soon] |
+
+---
+
+## ✉️ **Let's Connect!**
 
 <p align="left">
-  <a href="https://t.me/Jonizz14" target="_blank">
-    <img src="https://skillicons.dev/icons?i=telegram" width="48"/>
+  <a href="https://t.me/Jonizz14" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:jahongirtuhtaev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="48"/>
+  <a href="mailto:jahongirtuhtaev@gmail.com" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/jahongir-toxtayev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-<h2 align="center">🔥 Fork ⭐ Star ⭐ Follow</h2>
+<p align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by coffee" />
+</p>
+
+<h2 align="center">✨ Thanks for stopping by! Fork, Star, and Follow to see my journey! ✨</h2>
 

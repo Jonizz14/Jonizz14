@@ -52,7 +52,7 @@
 ## 📈 **GitHub Stats & Activity**
 
 <p align="center">
-  <a href="https://github.com/Jonizz14">
+  <a href="https://github.com/Jonizz14" >
     <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4&line_height=22" alt="Jahongir's GitHub Stats" height="180" />
   </a>
   <a href="https://github.com/Jonizz14">

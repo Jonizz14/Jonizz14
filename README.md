@@ -60,6 +60,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonizz14&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonizz14&theme=dark&hide_border=true" alt="3D Stats" />
+</p>
+
 ---
 
 ## 🏆 **Achievements & Focus Areas**

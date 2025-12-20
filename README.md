@@ -52,18 +52,22 @@
 ## 📈 **GitHub Stats & Activity**
 
 <p align="center">
-  <a href="https://github.com/Jonizz14" >
-    <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4&line_height=22" alt="Jahongir's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/Jonizz14">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=dark&hide_border=true&stroke=06B6D4&background=0D1117&ring=06B6D4&currStreakNum=06B6D4&fire=E96900&dates=06B6D4" alt="Jahongir's Streak" height="180" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Jonizz14&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="jonizz14" />
   </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=dark&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4&bg_color=0D1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&bg_color=0D1117&langs_count=6" height="150" alt="languages graph" />
+</div>
+
 <p align="center">
-  <a href="https://github.com/Jonizz14">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=dark&hide_border=true&title_color=06B6D4&icon_color=06B6D4&langs_count=6" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Jonizz14&theme=dark&hide_border=true&stroke=06B6D4&background=0D1117&ring=06B6D4&currStreakNum=06B6D4&fire=E96900&dates=06B6D4" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jonizz14&bg_color=0D1117&color=06B6D4&line=06B6D4&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
 </p>
 
 ---

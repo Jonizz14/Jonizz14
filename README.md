@@ -61,7 +61,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonizz14&theme=dark&hide_border=true" alt="3D Stats" />
+  <a href="https://github.com/novatorem/novatorem">
+    <img src="https://novatorem.vercel.app/api/spotify" alt="Spotify" />
+  </a>
 </p>
 
 ---

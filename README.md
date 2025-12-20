@@ -23,6 +23,10 @@
 - 🎯 **Goal:** To become a professional and innovative **Full-Stack Engineer**.
 - ✨ **Key Strengths:** Highly active on GitHub, experienced in building real-world projects, fast learner, and strong problem-solving skills.
 
+- <p align="center">
+  <img src="https://raw.githubusercontent.com/Jonizz14/Jonizz14/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 ---
 
 ## 🛠 **Tech Stack & Skills**

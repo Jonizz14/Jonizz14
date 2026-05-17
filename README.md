@@ -20,7 +20,7 @@
 ## ⚡ About Me
 
 ```javascript
-const joxa = {
+const jahongir = {
     role:        "Full-Stack Developer & Startup Founder",
     age:         16,
     location:    "Tashkent, Uzbekistan",
@@ -73,12 +73,12 @@ const joxa = {
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&title_color=06B6D4&icon_color=06B6D4&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4&langs_count=6" height="160" alt="Top Languages" />
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonizz14&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight&hide_border=true&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&count_private=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">

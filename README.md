@@ -90,12 +90,21 @@ Multi-model AI platform focused on automation, memory, and provider flexibility.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonizz14&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonizz14&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jonizz14&theme=github_dark" />
 
-<br/><br/>
+<br />
 
-<img src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=9ca3af" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonizz14&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jonizz14&theme=github_dark&utcOffset=5" />
+
+<br />
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonizz14&theme=github_dark" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jonizz14&theme=github_dark" />
+
+<br />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jonizz14&bg_color=0d1117&color=06B6D4&line=22c55e&point=f59e0b&area=true&hide_border=true&custom_title=Jahongir's%20Contribution%20Graph" />
 
 </div>
 

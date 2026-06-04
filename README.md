@@ -90,13 +90,12 @@ Multi-model AI platform focused on automation, memory, and provider flexibility.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jonizz14&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jonizz14&theme=github_dark" />
 
-<br />
-<br />
+<br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=9ca3af" />
+<img src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=9ca3af" />
 
 </div>
 

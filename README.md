@@ -90,10 +90,13 @@ Multi-model AI platform focused on automation, memory, and provider flexibility.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jonizz14&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&count_private=true&include_all_commits=true&cache_seconds=1800" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonizz14&layout=compact&theme=tokyonight&hide_border=true&title_color=06B6D4&text_color=c9d1d9&bg_color=0d1117&langs_count=8&cache_seconds=1800" />
 
-<img width="70%" src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4" />
+<br />
+<br />
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Jonizz14&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=06B6D4&ring=06B6D4&fire=f59e0b&currStreakLabel=06B6D4&sideLabels=06B6D4&dates=9ca3af" />
 
 </div>
 
@@ -112,10 +115,10 @@ Multi-model AI platform focused on automation, memory, and provider flexibility.
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Jonizz14)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahongirtuhtaev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jahongir-toxtayev/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonizz14)
+[![Telegram](https://img.shields.io/badge/Telegram-@jonizz__devvvv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jonizz_devvvv)
+[![Gmail](https://img.shields.io/badge/Gmail-jahongirtuhtaev989%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jahongirtuhtaev989@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jakhongir%20Tukhtaev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jakhongir-tukhtaev-473b803b6/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jonizz14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jonizz14)
 
 </div>
 

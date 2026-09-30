@@ -76,6 +76,7 @@ An education platform built for private schools and tutoring centers in Uzbekist
 
 | | |
 |---|---|
+| **Status** | 🟢 Live in production — [knowza.uz](https://knowza.uz) |
 | **Users** | Real schools and tutoring centers |
 | **Focus** | Learning management, student progress, center operations |
 | **AI** | Academic insights and smart study support |
@@ -90,7 +91,7 @@ An education platform built for private schools and tutoring centers in Uzbekist
 
 **Stack:** `Django REST` `React` `PostgreSQL` `Redis` `Docker`
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Knowza-06B6D4?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://knowza-seven.vercel.app)
+[![Website](https://img.shields.io/badge/Live-knowza.uz-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://knowza.uz)
 
 <details>
 <summary><b>🧩 Architecture overview</b></summary>
@@ -159,10 +160,6 @@ flowchart LR
 <br />
 
 <img width="100%" src="https://streak-stats.demolab.com?user=Jonizz14&theme=github-dark-blue&hide_border=true&background=0d1117&ring=06B6D4&fire=22D3EE&currStreakLabel=06B6D4" />
-
-<br />
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jonizz14&bg_color=0d1117&color=06B6D4&line=22c55e&point=f59e0b&area=true&hide_border=true&custom_title=Jahongir's%20Contribution%20Graph" />
 
 </div>
 

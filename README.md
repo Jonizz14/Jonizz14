@@ -1,8 +1,6 @@
 <div align="center">
 
-# Jakhongir Tukhtaev
-
-**Full-stack developer from Tashkent 🇺🇿 · founder of [Knowza](https://knowza.uz)**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Jakhongir Tukhtaev — full-stack developer from Tashkent" width="100%"></picture>
 
 I build tools for learning: a school LMS, a desktop reader for English practice, and the web apps around them.
 
@@ -11,6 +9,16 @@ I build tools for learning: a school LMS, a desktop reader for English practice,
 [![Email](https://img.shields.io/badge/Email-jahongirtuhtaev989@gmail.com-111?style=flat-square&logo=gmail&logoColor=white)](mailto:jahongirtuhtaev989@gmail.com)
 
 </div>
+
+---
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" alt="Streak and contribution numbers" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/year-dark.svg"><img src="assets/year-light.svg" alt="Contributions in the last year" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/languages-dark.svg"><img src="assets/languages-light.svg" alt="Languages in public repos" width="100%"></picture>
+
+<sub>These cards are drawn by <a href="scripts/build.mjs">my own script</a> from GitHub's API and refreshed every morning by a GitHub Action. Contributions include private repos, as GitHub counts them on my profile.</sub>
 
 ---
 
